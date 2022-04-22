@@ -87,7 +87,7 @@ export default {
 					<router-link to="/"
 						><img
 							v-if="theme === 'light'"
-							src="@/assets/images/logo-dark.svg"
+							src="@/assets/images/neil-ux-designer.svg"
 							class="w-36"
 							alt="Dark Logo"
 						/>
